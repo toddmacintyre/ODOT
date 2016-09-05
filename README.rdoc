@@ -1,28 +1,10 @@
-== README
+This is a TO DO list web application built using Ruby on Rails 4.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+User can Mark TO DO items as complete as well as add new lists and items, edit, save, and delete the items.
 
-Things you may want to cover:
+Built using these versions:
+ruby 2.0.0p353 (2013-11-22 revision 43784) [i686-linux]
+Rails 4.0.1
+rspec 2.99.2
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Please check the Gemfile for specific dependencies.
